@@ -1,0 +1,17 @@
+{
+	"name": "node-remove-polyfill",
+	"version": "1.0.0",
+	"description": "A minimal polyfill for Node.remove",
+	"main": "index.js",
+	"repository": "vadymstebakov/node-remove-polyfill",
+	"keywords": [
+		"js",
+		"DOM",
+		"Node",
+		"remove",
+		"IE",
+		"npm",
+		"package"
+	],
+	"license": "MIT"
+}
